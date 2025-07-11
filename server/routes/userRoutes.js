@@ -1,4 +1,4 @@
-import express from "expres"
+import express from "express"
 import { protect } from "../middleware/authMiddleware.js";
 import { getUserData } from "../controllers/userController.js";
 
