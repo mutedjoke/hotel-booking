@@ -7,12 +7,11 @@ import clerkWebhooks from "./controllers/clerkWebhooks.js";
 import bodyParser from "body-parser";
 import userRouter from "./routes/userRoutes.js";
 import hotelRouter from "./routes/hotelRoutes.js";
-import connectCloudinary from "./configs/cloudinary.js";
+import cloudinary from "./configs/cloudinary.js";
 import roomRouter from "./routes/roomRoutes.js";
 import bookingRouter from "./routes/bookingRoutes.js";
 
 connectDB()
-connectCloudinary()
 
 const app = express();
 app.use(cors());
