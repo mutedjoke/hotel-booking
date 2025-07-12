@@ -13,7 +13,7 @@ A full-stack hotel booking platform built with **React (Vite)**, **Clerk Authent
 - 🧾 View and manage user bookings
 - 📊 Owner dashboard with revenue stats
 - 🌥️ Cloudinary integration for image hosting
-- 🌍 Deployed on **Vercel** (frontend + backend)
+
 
 ---
 
