@@ -44,6 +44,7 @@ A full-stack hotel booking platform built with **React (Vite)**, **Clerk Authent
 git clone https://github.com/yourusername/hotel-booking-app.git
 cd hotel-booking-app
 
+### 2. Setup the client
 cd client
 npm install
 
